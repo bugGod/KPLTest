@@ -1,0 +1,6 @@
+framework module YSPExplorerSdk {
+  umbrella header "YSPExplorerSdk.h"
+
+  export *
+  module * { export * }
+}
